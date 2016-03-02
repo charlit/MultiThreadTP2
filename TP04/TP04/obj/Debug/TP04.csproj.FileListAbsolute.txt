@@ -1,0 +1,6 @@
+c:\users\charles\documents\visual studio 2015\Projects\TP04\TP04\bin\Debug\TP04.exe.config
+c:\users\charles\documents\visual studio 2015\Projects\TP04\TP04\bin\Debug\TP04.exe
+c:\users\charles\documents\visual studio 2015\Projects\TP04\TP04\bin\Debug\TP04.pdb
+c:\users\charles\documents\visual studio 2015\Projects\TP04\TP04\obj\Debug\TP04.csprojResolveAssemblyReference.cache
+c:\users\charles\documents\visual studio 2015\Projects\TP04\TP04\obj\Debug\TP04.exe
+c:\users\charles\documents\visual studio 2015\Projects\TP04\TP04\obj\Debug\TP04.pdb

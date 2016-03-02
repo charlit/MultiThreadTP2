@@ -1,0 +1,12 @@
+C:\Users\charles\documents\visual studio 2015\Projects\TP04\TP04 -safe\bin\Debug\TP04 -safe.exe.config
+C:\Users\charles\documents\visual studio 2015\Projects\TP04\TP04 -safe\bin\Debug\TP04 -safe.exe
+C:\Users\charles\documents\visual studio 2015\Projects\TP04\TP04 -safe\bin\Debug\TP04 -safe.pdb
+C:\Users\charles\documents\visual studio 2015\Projects\TP04\TP04 -safe\obj\Debug\TP04 -safe.csprojResolveAssemblyReference.cache
+C:\Users\charles\documents\visual studio 2015\Projects\TP04\TP04 -safe\obj\Debug\TP04 -safe.exe
+C:\Users\charles\documents\visual studio 2015\Projects\TP04\TP04 -safe\obj\Debug\TP04 -safe.pdb
+C:\Users\charles\Documents\I4-Epsi\c++\TP04\TP04\TP04 -safe\bin\Debug\TP04 -safe.exe.config
+C:\Users\charles\Documents\I4-Epsi\c++\TP04\TP04\TP04 -safe\obj\Debug\TP04 -safe.exe
+C:\Users\charles\Documents\I4-Epsi\c++\TP04\TP04\TP04 -safe\obj\Debug\TP04 -safe.pdb
+C:\Users\charles\Documents\I4-Epsi\c++\TP04\TP04\TP04 -safe\bin\Debug\TP04 -safe.exe
+C:\Users\charles\Documents\I4-Epsi\c++\TP04\TP04\TP04 -safe\bin\Debug\TP04 -safe.pdb
+C:\Users\charles\Documents\I4-Epsi\c++\TP04\TP04\TP04 -safe\obj\Debug\TP04 -safe.csprojResolveAssemblyReference.cache
